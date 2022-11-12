@@ -35,9 +35,16 @@ dataset links: https://github.com/alexeygrigorev/clothing-dataset
 
 The whole links has 4 parts
 
-1.A/B testing use-case
-2.A/B testing tools
-3.RFM Analysis for superstore dataset
-4.AB Testing in Streamlit for mobile game test
+Part1:
+A/B testing use-case
+
+Part2:
+A/B testing tools
+
+Part3:
+RFM Analysis for superstore dataset
+
+Part4:
+AB Testing in Streamlit for mobile game test
 
 The Article Links：https://codelabs-preview.appspot.com/?file_id=1uPUKnreImQVCrrt3dclOCFwZZ8UbUXKVDBFj0WmEOZs#0
