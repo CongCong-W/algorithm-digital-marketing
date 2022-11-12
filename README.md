@@ -29,3 +29,15 @@ The Article Links: https://codelabs-preview.appspot.com/?file_id=1yuIKju5_UUEWbJ
 The google docs links: https://docs.google.com/presentation/d/1HLOuvylqQbIGaAN768NwwzPRe8hmNiKA2YYV-1xPKPs/edit#slide=id.g1717cd4701c_0_70
 
 dataset links: https://github.com/alexeygrigorev/clothing-dataset
+
+
+# A/B Testing
+
+The whole links has 4 parts
+
+1.A/B testing use-case
+2.A/B testing tools
+3.RFM Analysis for superstore dataset
+4.AB Testing in Streamlit for mobile game test
+
+The Article Links：https://codelabs-preview.appspot.com/?file_id=1uPUKnreImQVCrrt3dclOCFwZZ8UbUXKVDBFj0WmEOZs#0
