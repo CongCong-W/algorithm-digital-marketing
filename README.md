@@ -48,3 +48,16 @@ Part4:
 AB Testing in Streamlit for mobile game test
 
 The Article Links：https://codelabs-preview.appspot.com/?file_id=1uPUKnreImQVCrrt3dclOCFwZZ8UbUXKVDBFj0WmEOZs#0
+
+# Snowflake Demo Learning
+This part includes: assignment 4&5 
+
+part1(assignment 4)
+Demo runing
+
+Part2(assignment 5)
+my own dataset to run credit demo
+
+# Final Project
+
+The Final Project Proposal Links:https://codelabs-preview.appspot.com/?file_id=14D5KfGgmBpvR_480zXnKBwxGhfDIPJQnxkj-YHismow#0
