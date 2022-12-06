@@ -48,3 +48,7 @@ Part4:
 AB Testing in Streamlit for mobile game test
 
 The Article Links：https://codelabs-preview.appspot.com/?file_id=1uPUKnreImQVCrrt3dclOCFwZZ8UbUXKVDBFj0WmEOZs#0
+
+# Final Project
+
+The Final Project Proposal Links:https://codelabs-preview.appspot.com/?file_id=14D5KfGgmBpvR_480zXnKBwxGhfDIPJQnxkj-YHismow#0
