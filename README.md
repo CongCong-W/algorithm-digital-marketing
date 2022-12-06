@@ -2,7 +2,7 @@
 
 
 
-# The Great Expectations
+# The Great Expectations(Assignment 1)
 
 In this article, I just want to use The Great Expectations to check the Amazon digital video games dataset quality with the Amazon Luggage data as datasource and use xsv queries to do the explorations on the dataset.
 
@@ -12,7 +12,7 @@ file:///Users/wangcong/workspace/NEU/INFO7374/great_expectations/uncommitted/dat
 
 
 
-# Visual Search
+# Visual Search(Assignment 2)
 In this docs, I achieveed the following steps to finish the visual search and ealstic search and documented the problem that I meet.
 
 Part1:
@@ -31,7 +31,7 @@ The google docs links: https://docs.google.com/presentation/d/1HLOuvylqQbIGaAN76
 dataset links: https://github.com/alexeygrigorev/clothing-dataset
 
 
-# A/B Testing
+# A/B Testing(Assignment 3)
 
 The whole links has 4 parts
 
@@ -49,7 +49,7 @@ AB Testing in Streamlit for mobile game test
 
 The Article Links：https://codelabs-preview.appspot.com/?file_id=1uPUKnreImQVCrrt3dclOCFwZZ8UbUXKVDBFj0WmEOZs#0
 
-# Snowflake Demo Learning
+# Snowflake Demo Learning(Assignment 4&5)
 This part includes: assignment 4&5 
 
 part1(assignment 4)
