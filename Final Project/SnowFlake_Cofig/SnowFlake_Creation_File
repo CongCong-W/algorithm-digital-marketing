@@ -1,0 +1,43 @@
+create or replace storage integration mktmail_int
+  type = external_stage
+  storage_provider = 'S3'
+  enabled = true
+  storage_aws_role_arn = 'your_own_arn'
+  storage_allowed_locations = ('s3://<your own s3 bucket>');
+
+desc integration mktmail_int;
+
+-- STORAGE_AWS_IAM_USER_ARN
+--
+-- STORAGE_AWS_EXTERNAL_ID
+-- 
+
+CREATE or REPLACE file format csvformat
+  skip_header = 1
+  type = 'CSV';
+
+CREATE or REPLACE stage mktmail_stage
+  storage_integration = mktmail_int
+  FILE_FORMAT = csvformat
+  url = 's3://adversummit/summitdemo/MarketingMail/';
+
+list @mktmail_stage;
+
+CREATE or REPLACE TABLE customerInfo (
+  Age VARCHAR(60), 
+  Gender VARCHAR(60),
+  OwnHome VARCHAR(60),
+  Married VARCHAR(60),
+  Location VARCHAR(60)),
+  Salary NUMBER(38,0),
+  Children NUMBER(38,0),
+  History VARCHAR(60),
+  Catalogs VARCHAR(60),
+  AmountSpent NUMBER(38,0)
+);
+copy into customerInfo from @mktmail_stage;
+
+
+
+select * from customers_info_new
+limit 5;
