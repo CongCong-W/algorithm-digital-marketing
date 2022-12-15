@@ -1,8 +1,8 @@
 {
-    "account": "PCLDASM-XJ34554",
-    "user": "KOALAWANG",
-    "password": "1013Wangcong!",
-    "warehouse": "MARKETINGMAIL_WH",
-    "database": "MARKETING_MAIl",
-    "schema": "PUBLIC"
+    "account": "<your account>",
+    "user": "<your username>",
+    "password": "<your password>",
+    "warehouse": "<your warehouse>",
+    "database": "<your database>",
+    "schema": "<your schema>"
   }
