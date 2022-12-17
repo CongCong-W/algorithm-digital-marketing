@@ -63,3 +63,5 @@ my own dataset to run credit demo
 # Final Project
 
 The Final Project Proposal Links:https://codelabs-preview.appspot.com/?file_id=14D5KfGgmBpvR_480zXnKBwxGhfDIPJQnxkj-YHismow#0
+
+The Final Project Presentation : https://codelabs-preview.appspot.com/?file_id=1DGxPHbnSUL-hXrzw__vSHDAQc2IH3iPWU_RjWQn6gzY#0
